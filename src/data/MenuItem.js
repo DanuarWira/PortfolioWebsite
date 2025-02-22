@@ -11,16 +11,11 @@ export const MenuItem = [
     },
     {
         id: 3,
-        title: "About me",
-        url: "#",
-    },
-    {
-        id: 4,
         title: "Experiences",
         url: "#",
     },
     {
-        id: 5,
+        id: 4,
         title: "Portfolio",
         url: "#",
     }
